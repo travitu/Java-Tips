@@ -1,3 +1,2 @@
 # Java-Tips
-Java tips
-test6
+https://github.com/travitu/Java-Tips/wiki
